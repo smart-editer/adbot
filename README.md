@@ -1006,7 +1006,7 @@ Unauthorized copying, redistribution, modification, or commercial use is not per
 
 ## 👨‍💻 Maintainer
 
-**Sorabh Yadav**
+**Smart Editer**
 
 GitHub: [https://github.com/sorabhyadavpalothar/adbot](https://github.com/sorabhyadavpalothar/adbot)
 
